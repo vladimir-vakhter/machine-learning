@@ -11,4 +11,4 @@ This repository contains the solutions for the assignments from the 'Machine Lea
 
 # Acknowledgements
 Prof. Xinming Huang (xhuang@wpi.edu) for teaching the course, formulating the tasks, as well as for the valuable discussions on the topic of Machine Learning.
-The files are published with the permission of Prof. Huang.
+</br></br>The files are published with the permission of Prof. Huang.
